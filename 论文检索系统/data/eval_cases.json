@@ -1,0 +1,8 @@
+[
+  {"query":"dense retrieval","relevant_ids":["demo:001","demo:017"]},
+  {"query":"large language model","relevant_ids":["demo:003","demo:010","demo:015"]},
+  {"query":"retrieval augmented generation","relevant_ids":["demo:004","demo:010"]},
+  {"query":"recommendation graph neural network","relevant_ids":["demo:005","demo:011"]},
+  {"query":"scientific literature discovery","relevant_ids":["demo:009","demo:013","demo:014"]},
+  {"query":"BM25 keyword search","relevant_ids":["demo:008","demo:016","demo:018"]}
+]

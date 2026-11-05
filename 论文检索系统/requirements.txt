@@ -1,0 +1,3 @@
+# C frontend dependency. Other modules use the Python standard library.
+# Python 3.10 or newer is required.
+streamlit==1.45.0

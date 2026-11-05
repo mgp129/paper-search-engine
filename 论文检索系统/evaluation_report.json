@@ -1,0 +1,149 @@
+{
+  "data": "C:\\Users\\杨文玲\\Documents\\Codex\\2026-11-04\\https-365-kdocs-cn-l-ckms5flrxb0r\\outputs\\paper-search-b\\data\\sample_papers.jsonl",
+  "k": 5,
+  "documents": 18,
+  "query_count": 6,
+  "recall_at_k": 1.0,
+  "precision_at_k": 0.5,
+  "mrr_at_k": 1.0,
+  "per_query": [
+    {
+      "query": "dense retrieval",
+      "relevant_ids": [
+        "demo:001",
+        "demo:017"
+      ],
+      "returned_ids": [
+        "demo:001",
+        "demo:004",
+        "demo:017",
+        "demo:007",
+        "demo:010"
+      ],
+      "found_ids": [
+        "demo:001",
+        "demo:017"
+      ],
+      "recall_at_k": 1.0,
+      "precision_at_k": 0.4,
+      "reciprocal_rank": 1.0,
+      "first_relevant_rank": 1
+    },
+    {
+      "query": "large language model",
+      "relevant_ids": [
+        "demo:003",
+        "demo:010",
+        "demo:015"
+      ],
+      "returned_ids": [
+        "demo:003",
+        "demo:015",
+        "demo:004",
+        "demo:010",
+        "demo:002"
+      ],
+      "found_ids": [
+        "demo:003",
+        "demo:010",
+        "demo:015"
+      ],
+      "recall_at_k": 1.0,
+      "precision_at_k": 0.6,
+      "reciprocal_rank": 1.0,
+      "first_relevant_rank": 1
+    },
+    {
+      "query": "retrieval augmented generation",
+      "relevant_ids": [
+        "demo:004",
+        "demo:010"
+      ],
+      "returned_ids": [
+        "demo:004",
+        "demo:010",
+        "demo:007",
+        "demo:008",
+        "demo:018"
+      ],
+      "found_ids": [
+        "demo:004",
+        "demo:010"
+      ],
+      "recall_at_k": 1.0,
+      "precision_at_k": 0.4,
+      "reciprocal_rank": 1.0,
+      "first_relevant_rank": 1
+    },
+    {
+      "query": "recommendation graph neural network",
+      "relevant_ids": [
+        "demo:005",
+        "demo:011"
+      ],
+      "returned_ids": [
+        "demo:005",
+        "demo:011",
+        "demo:006",
+        "demo:009",
+        "demo:012"
+      ],
+      "found_ids": [
+        "demo:005",
+        "demo:011"
+      ],
+      "recall_at_k": 1.0,
+      "precision_at_k": 0.4,
+      "reciprocal_rank": 1.0,
+      "first_relevant_rank": 1
+    },
+    {
+      "query": "scientific literature discovery",
+      "relevant_ids": [
+        "demo:009",
+        "demo:013",
+        "demo:014"
+      ],
+      "returned_ids": [
+        "demo:009",
+        "demo:017",
+        "demo:014",
+        "demo:015",
+        "demo:013"
+      ],
+      "found_ids": [
+        "demo:009",
+        "demo:013",
+        "demo:014"
+      ],
+      "recall_at_k": 1.0,
+      "precision_at_k": 0.6,
+      "reciprocal_rank": 1.0,
+      "first_relevant_rank": 1
+    },
+    {
+      "query": "BM25 keyword search",
+      "relevant_ids": [
+        "demo:008",
+        "demo:016",
+        "demo:018"
+      ],
+      "returned_ids": [
+        "demo:008",
+        "demo:016",
+        "demo:018",
+        "demo:012",
+        "demo:017"
+      ],
+      "found_ids": [
+        "demo:008",
+        "demo:016",
+        "demo:018"
+      ],
+      "recall_at_k": 1.0,
+      "precision_at_k": 0.6,
+      "reciprocal_rank": 1.0,
+      "first_relevant_rank": 1
+    }
+  ]
+}

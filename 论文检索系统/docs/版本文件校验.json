@@ -1,0 +1,185 @@
+{
+  "source_archive": "abc汇总.zip",
+  "source_archive_sha256": "7550c496ba3b466b0e1f8ba7d75fffc0073d93cb3fb67c5655426724bdefcccb",
+  "checked_at_utc": "2026-11-04T17:30:07.758098+00:00",
+  "A_and_B_unchanged": true,
+  "files": [
+    {
+      "file": "app.py",
+      "status": "modified",
+      "baseline_sha256": "d41ed071af705763501957d0e796988a4f96f5c7c7ec0cc053cf0f79f91a46a8",
+      "final_sha256": "a247a5d27381ac8cd85e722b5dec8d45c53dbe94ad085c9ebff88029ced28579"
+    },
+    {
+      "file": "B_DELIVERY.md",
+      "status": "modified",
+      "baseline_sha256": "d1618346795fdeae97d4a79c1bf0bbda9b30e3d1f49dd7d8fd407c4202211c03",
+      "final_sha256": "0050a950296a45bd0238286e102ce28edf8aa1c2ecc129dfd30ffd53575360f4"
+    },
+    {
+      "file": "C_交接说明.md",
+      "status": "modified",
+      "baseline_sha256": "4bdb177d717f64262431500a5cb9a26867e883787cd1eaf3345d7e47a97a804c",
+      "final_sha256": "16e46b9807167b1308b3bfa5fb4e37668e2fefebde504ea1c5de5d6062936b7e"
+    },
+    {
+      "file": "C_运行截图.png",
+      "status": "unchanged",
+      "baseline_sha256": "c351b3b8c28a847b5bda03fae1d552e2b40b6da2b7dab027fded09bb7d9e63ff",
+      "final_sha256": "c351b3b8c28a847b5bda03fae1d552e2b40b6da2b7dab027fded09bb7d9e63ff"
+    },
+    {
+      "file": "data/eval_cases.json",
+      "status": "unchanged",
+      "baseline_sha256": "256037a91006e6e0628297fc8cd95b1e4791c9a7e4c217cd93849e857ba8ebf4",
+      "final_sha256": "256037a91006e6e0628297fc8cd95b1e4791c9a7e4c217cd93849e857ba8ebf4"
+    },
+    {
+      "file": "data/sample_index.pkl",
+      "status": "unchanged",
+      "baseline_sha256": "9aa17cee5b22ea377f41e85c4be6867f0a7ea0482e330fb42e27ef8c78e8ddfe",
+      "final_sha256": "9aa17cee5b22ea377f41e85c4be6867f0a7ea0482e330fb42e27ef8c78e8ddfe"
+    },
+    {
+      "file": "data/sample_papers.jsonl",
+      "status": "unchanged",
+      "baseline_sha256": "740b1d6b782a6bfb28a4c4cbceb21ae6c6ee28295d6072566c33a17eaa16fb11",
+      "final_sha256": "740b1d6b782a6bfb28a4c4cbceb21ae6c6ee28295d6072566c33a17eaa16fb11"
+    },
+    {
+      "file": "docs/B_API.md",
+      "status": "modified",
+      "baseline_sha256": "5d68e1b48c4d3aacee82a015bef286d1124895453aef1ffd6b47dca91b571850",
+      "final_sha256": "65d3eea3305637b50eabaa110028ea066b62c4445cdad1f1b908de3f198464f9"
+    },
+    {
+      "file": "evaluation_report.json",
+      "status": "unchanged",
+      "baseline_sha256": "30538c4a50bea4d001d8575503c09acf3880a8ed1f48b78bac382d43aae424ca",
+      "final_sha256": "30538c4a50bea4d001d8575503c09acf3880a8ed1f48b78bac382d43aae424ca"
+    },
+    {
+      "file": "f5f39bcd2c91922b57c073063baf06b8.png",
+      "status": "unchanged",
+      "baseline_sha256": "6b824dbeb4e4b0a7a2c04f44db07c7a5846851be5362968bf062b234fac61387",
+      "final_sha256": "6b824dbeb4e4b0a7a2c04f44db07c7a5846851be5362968bf062b234fac61387"
+    },
+    {
+      "file": "paper-data/data/data_stats.json",
+      "status": "unchanged",
+      "baseline_sha256": "f53bab7a8a5cb5f6a928fb0b7165eb85d00b58485471e0a8654b7a7a5c4097de",
+      "final_sha256": "f53bab7a8a5cb5f6a928fb0b7165eb85d00b58485471e0a8654b7a7a5c4097de"
+    },
+    {
+      "file": "paper-data/data/papers.jsonl",
+      "status": "unchanged",
+      "baseline_sha256": "2361e33a0840dfdcd3d1ca47f7a993a1887dd775058af8e54e4d100fb323dcc1",
+      "final_sha256": "2361e33a0840dfdcd3d1ca47f7a993a1887dd775058af8e54e4d100fb323dcc1"
+    },
+    {
+      "file": "paper-data/data/papers_dev.jsonl",
+      "status": "unchanged",
+      "baseline_sha256": "c6b0f30d15cc10c6a0339620930d13a341e272d6a7328e896e985afc6fb0bafa",
+      "final_sha256": "c6b0f30d15cc10c6a0339620930d13a341e272d6a7328e896e985afc6fb0bafa"
+    },
+    {
+      "file": "paper-data/data/papers_final.jsonl",
+      "status": "unchanged",
+      "baseline_sha256": "2361e33a0840dfdcd3d1ca47f7a993a1887dd775058af8e54e4d100fb323dcc1",
+      "final_sha256": "2361e33a0840dfdcd3d1ca47f7a993a1887dd775058af8e54e4d100fb323dcc1"
+    },
+    {
+      "file": "paper-data/docs/data_card.md",
+      "status": "unchanged",
+      "baseline_sha256": "34f09e27094418cbe13d9d6e1f7d9c164a53e17b4deb1b5718dcaabc376e0345",
+      "final_sha256": "34f09e27094418cbe13d9d6e1f7d9c164a53e17b4deb1b5718dcaabc376e0345"
+    },
+    {
+      "file": "paper-data/docs/validation_report.json",
+      "status": "unchanged",
+      "baseline_sha256": "fef367c762c0c1e192a2e538a7b74701ec1fc1e4fae4c02edfb657ecb344df06",
+      "final_sha256": "fef367c762c0c1e192a2e538a7b74701ec1fc1e4fae4c02edfb657ecb344df06"
+    },
+    {
+      "file": "paper-data/README.md",
+      "status": "unchanged",
+      "baseline_sha256": "bdaf31a23aaa66b5b4ed1552c1ef62597f51cb3cf64d1bde904411c84d74b05c",
+      "final_sha256": "bdaf31a23aaa66b5b4ed1552c1ef62597f51cb3cf64d1bde904411c84d74b05c"
+    },
+    {
+      "file": "paper-data/requirements.txt",
+      "status": "unchanged",
+      "baseline_sha256": "aaa0a306c1e8adb17f994d01fcc86b6def5df6e52f2fbe4797b798ec275e412b",
+      "final_sha256": "aaa0a306c1e8adb17f994d01fcc86b6def5df6e52f2fbe4797b798ec275e412b"
+    },
+    {
+      "file": "paper-data/scripts/fetch_arxiv.py",
+      "status": "unchanged",
+      "baseline_sha256": "c781eba697255c16bf21030142e2d8fd60585ea9494b19780a46c135bde5573e",
+      "final_sha256": "c781eba697255c16bf21030142e2d8fd60585ea9494b19780a46c135bde5573e"
+    },
+    {
+      "file": "paper-data/scripts/validate_data.py",
+      "status": "unchanged",
+      "baseline_sha256": "592a2a127105cfcc1cbc25b2b390155e3d205373bf3b40ae9c84ed0de625bfbf",
+      "final_sha256": "592a2a127105cfcc1cbc25b2b390155e3d205373bf3b40ae9c84ed0de625bfbf"
+    },
+    {
+      "file": "paper-data/tests/test_pipeline.py",
+      "status": "unchanged",
+      "baseline_sha256": "007abd5bc3bb60c423d67d929049489e3e93cfed12e79ba7f4101b7cf9736fb1",
+      "final_sha256": "007abd5bc3bb60c423d67d929049489e3e93cfed12e79ba7f4101b7cf9736fb1"
+    },
+    {
+      "file": "paper_search/__init__.py",
+      "status": "unchanged",
+      "baseline_sha256": "132a8d3dbd3dde12d26adb9809def2e7528bdbdb62ff51d35631d88941311b4a",
+      "final_sha256": "132a8d3dbd3dde12d26adb9809def2e7528bdbdb62ff51d35631d88941311b4a"
+    },
+    {
+      "file": "paper_search/cli.py",
+      "status": "unchanged",
+      "baseline_sha256": "7b002f46d7900a8a49ea989ec2b01680f0f26cc9d668df2d75c2d43e119f0afc",
+      "final_sha256": "7b002f46d7900a8a49ea989ec2b01680f0f26cc9d668df2d75c2d43e119f0afc"
+    },
+    {
+      "file": "paper_search/engine.py",
+      "status": "unchanged",
+      "baseline_sha256": "d3a6ef0cb38987998917a1784980be494e0023256ab94309dd7d19b19d915c86",
+      "final_sha256": "d3a6ef0cb38987998917a1784980be494e0023256ab94309dd7d19b19d915c86"
+    },
+    {
+      "file": "README.md",
+      "status": "modified",
+      "baseline_sha256": "1e4824c031e3f09e4862b0074ec4a3399e93f5119b191b3c87f5846ecbaa3941",
+      "final_sha256": "71dd9874aa804ef83d4e16a027ed7c9c32d93798799cf91fe561de00b2b118ef"
+    },
+    {
+      "file": "requirements.txt",
+      "status": "modified",
+      "baseline_sha256": "826cf4d6b1ce802d008cac05d2fbd42b132d35179710708be6c9a89445bd37aa",
+      "final_sha256": "c823591c911120fa8b636de6f3deaa1b6fdb9cb1959d6fd0e7b5e2024026d22a"
+    },
+    {
+      "file": "search_api.py",
+      "status": "modified",
+      "baseline_sha256": "83c858482a3546a2b1cd57752d5411bf4e46ed9c48d44515fe0d39a369964756",
+      "final_sha256": "c19d576b2859fc70da758b2cde40ad8f924c4173a58313bccdaf896f53ef6711"
+    },
+    {
+      "file": "tests/test_search_api.py",
+      "status": "unchanged",
+      "baseline_sha256": "7aafd5d841d13cd240eb62f9f02fa8843acd734bb9f99d25f9247dbbe23432ac",
+      "final_sha256": "7aafd5d841d13cd240eb62f9f02fa8843acd734bb9f99d25f9247dbbe23432ac"
+    },
+    {
+      "file": "tests/test_streamlit_app.py",
+      "status": "unchanged",
+      "baseline_sha256": "3a16def6d68318d7ce7ec0606762bd38f6ba50bdd66151d6796a19c45e61cf14",
+      "final_sha256": "3a16def6d68318d7ce7ec0606762bd38f6ba50bdd66151d6796a19c45e61cf14"
+    }
+  ],
+  "auto_tests_passed": 23,
+  "browser_checks_passed": 9,
+  "PPT_included": false
+}

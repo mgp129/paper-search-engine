@@ -1,0 +1,65 @@
+{
+  "validated_at_utc": "2026-11-04T13:12:56+00:00",
+  "offline_validation": "passed",
+  "files": {
+    "papers_dev.jsonl": {
+      "records": 150
+    },
+    "papers_final.jsonl": {
+      "records": 800
+    },
+    "papers.jsonl": {
+      "records": 800
+    }
+  },
+  "errors": [],
+  "url_access_check": {
+    "status": "passed",
+    "sampling": "fixed-seed stratified by primary category; then random remainder",
+    "seed": 20261104,
+    "sample_size": 4,
+    "passed": 4,
+    "unverified": 0,
+    "request_interval_seconds": 3.1,
+    "checks": [
+      {
+        "paper_id": "2610.27273",
+        "category": "cs.IR",
+        "url": "https://arxiv.org/abs/2610.27273",
+        "checked_at_utc": "2026-11-04T13:12:33+00:00",
+        "http_status": 200,
+        "resolved_url": "https://arxiv.org/abs/2610.27273",
+        "result": "passed"
+      },
+      {
+        "paper_id": "2611.01191",
+        "category": "cs.CL",
+        "url": "https://arxiv.org/abs/2611.01191",
+        "checked_at_utc": "2026-11-04T13:12:40+00:00",
+        "http_status": 200,
+        "resolved_url": "https://arxiv.org/abs/2611.01191",
+        "result": "passed"
+      },
+      {
+        "paper_id": "2611.04774",
+        "category": "cs.LG",
+        "url": "https://arxiv.org/abs/2611.04774",
+        "checked_at_utc": "2026-11-04T13:12:46+00:00",
+        "http_status": 200,
+        "resolved_url": "https://arxiv.org/abs/2611.04774",
+        "result": "passed"
+      },
+      {
+        "paper_id": "2611.04061",
+        "category": "cs.AI",
+        "url": "https://arxiv.org/abs/2611.04061",
+        "checked_at_utc": "2026-11-04T13:12:53+00:00",
+        "http_status": 200,
+        "resolved_url": "https://arxiv.org/abs/2611.04061",
+        "result": "passed"
+      }
+    ],
+    "note": "仅对抽样 URL 进行实际访问，不代表所有链接当前均可访问。"
+  },
+  "note": "离线验收不能单独证明来源真实性；数据来自实际官方 API 调用，统计记录查询及采集过程。"
+}
